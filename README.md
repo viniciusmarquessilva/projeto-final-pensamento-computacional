@@ -2,7 +2,7 @@
 Este repositório contém os arquivos utilizados no projeto final da disciplina de Pensamento Computacional do Master em Jornalismo de Dados, Automação e Data Storytelling do Insper.
 
 O projeto final foi um programa para pegar os links e datas dos Diários Oficiais do Estado do Tocantins e salvá-los em um arquivo ".csv".
-Os dados foram raspados da seguinte url:https://diariooficial.to.gov.br/busca?por=edicao&edicao=
+Os dados foram extraídos da seguinte url: https://diariooficial.to.gov.br/busca?por=edicao&edicao=
 
 ## Linguagem utilizada
 Os códigos foram escritos em linguagem python.
